@@ -1,1 +1,1 @@
-"# mioshinakamoto.com" 
+# mioshinakamoto.com
